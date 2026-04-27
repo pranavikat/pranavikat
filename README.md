@@ -63,6 +63,11 @@ Naive Bayes and MLP models to optimize performance and generate actionable insig
   <img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge">
   <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
   <img src="https://img.shields.io/badge/LLMs-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feature%20Engineering-6A1B9A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-1E88E5?style=for-the-badge">
+
+ 
 </p>
 
 ---
@@ -81,6 +86,8 @@ Naive Bayes and MLP models to optimize performance and generate actionable insig
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes">
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-6D4C41?style=for-the-badge">
 </p>
 
 
