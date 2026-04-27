@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Gen+AI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  📍 Based in the U.S. | Open to relocation
+</p>
+
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/pranavi-katikaneni/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
