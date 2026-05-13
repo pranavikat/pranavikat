@@ -18,7 +18,7 @@
 ## 🚀 About Me 
 Hi, I’m Pranavi Katikaneni — a Data Scientist specializing in Generative AI, Machine Learning, and Data Analytics.
 
-I have over 3 years of experience building data-driven solutions across financial and healthcare domains, including my work at State Street and Siemens Healthineers. My recent work focuses on developing GenAI systems using LLMs and Retrieval-Augmented Generation (RAG) to automate insights, improve decision-making, and drive efficiency in real-world applications.
+I have experience building data-driven solutions across financial and healthcare domains, including my work at State Street and Siemens Healthineers. My recent work focuses on developing GenAI systems using LLMs and Retrieval-Augmented Generation (RAG) to automate insights, improve decision-making, and drive efficiency in real-world applications.
 
 I enjoy solving complex problems by combining data engineering, machine learning, and business context. From building scalable data pipelines to designing AI-powered applications, I aim to create solutions that are not just technically sound but also impactful.
 
